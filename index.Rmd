@@ -1,0 +1,14 @@
+---
+title: "My Website Homepage"
+author: "Katie Bardsley"
+date: "2/10/2021"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+---
+
+## Welcome!
+
+## Table of Contents:
+
